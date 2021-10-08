@@ -1,1 +1,1 @@
-# C-26-PROJECT
+# project-C26-template
